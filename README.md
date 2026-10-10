@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1c,50:1e3a8a,100:38bdf8&height=220&section=header&text=Natanael%20Evaristo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Java%20%7C%20Back-end%20em%20forma%C3%A7%C3%A3o&descSize=20&descAlignY=60&descColor=cbd5e1" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1c,50:1e3a8a,100:38bdf8&height=220&section=header&text=Natanael%20Evaristo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Java%20%7C%20Back-end%20em%20forma%C3%A7%C3%A3o&descSize=20&descAlignY=60&descColor=cbd5e1" alt="Banner" />
 </p>
 
 <p align="center">
@@ -168,5 +168,5 @@ public class Natanael {
 
 <!-- ============ FOOTER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e3a8a,100:0a0f1c&height=120&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,50:1e3a8a,100:0a0f1c&height=120&section=footer" alt="Footer" />
 </p>
