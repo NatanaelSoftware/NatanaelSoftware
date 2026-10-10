@@ -1,8 +1,6 @@
 <!-- ============ HEADER ============ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1c,50:1e3a8a,100:38bdf8&height=220&section=header&text=Natanael%20Evaristo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Java%20%7C%20Back-end%20em%20forma%C3%A7%C3%A3o&descSize=20&descAlignY=60&descColor=cbd5e1" alt="Banner" />
-</p>
-
+<h1 align="center">Natanael Evaristo</h1>
+<p align="center"><b>Desenvolvedor Java | Back-end em formação</b></p>
 <p align="center">
   <a href="https://github.com/NatanaelSoftware">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&height=45&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Java+em+forma%C3%A7%C3%A3o;Back-end+%7C+APIs+%7C+Bancos+de+Dados;Estudando+AWS+e+IA+com+Java;Aberto+a+oportunidades+%F0%9F%9A%80" alt="Typing SVG" />
