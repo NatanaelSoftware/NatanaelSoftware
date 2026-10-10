@@ -1,6 +1,7 @@
 <!-- ============ HEADER ============ -->
-<h1 align="center">Natanael Evaristo</h1>
-<p align="center"><b>Desenvolvedor Java | Back-end em formação</b></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=130&section=header&text=Natanael%20Evaristo&fontSize=38&fontColor=e2e8f0&fontAlignY=42&desc=Desenvolvedor%20Java%20%7C%20Back-end%20em%20forma%C3%A7%C3%A3o&descSize=16&descAlignY=68&descColor=94a3b8" alt="Natanael Evaristo" />
+</p>
 <p align="center">
   <a href="https://github.com/NatanaelSoftware">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&height=45&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Java+em+forma%C3%A7%C3%A3o;Back-end+%7C+APIs+%7C+Bancos+de+Dados;Estudando+AWS+e+IA+com+Java;Aberto+a+oportunidades+%F0%9F%9A%80" alt="Typing SVG" />
@@ -64,9 +65,6 @@ public class Natanael {
       <br><br>
       <img src="https://img.shields.io/badge/Java-0a0f1c?style=flat-square&logo=openjdk&logoColor=ED8B00" />
       <img src="https://img.shields.io/badge/MySQL-0a0f1c?style=flat-square&logo=mysql&logoColor=4479A1" />
-      <img src="https://img.shields.io/badge/HTML-0a0f1c?style=flat-square&logo=html5&logoColor=E34F26" />
-      <img src="https://img.shields.io/badge/CSS-0a0f1c?style=flat-square&logo=css3&logoColor=1572B6" />
-      <img src="https://img.shields.io/badge/JavaScript-0a0f1c?style=flat-square&logo=javascript&logoColor=F7DF1E" />
     </td>
   </tr>
 </table>
@@ -166,5 +164,5 @@ public class Natanael {
 
 <!-- ============ FOOTER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,50:1e3a8a,100:0a0f1c&height=120&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=60&section=footer" alt="Footer" />
 </p>
