@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/NatanaelSoftware">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&height=45&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Java+em+forma%C3%A7%C3%A3o;Back-end+%7C+APIs+%7C+Bancos+de+Dados;Estudando+Spring+Boot%2C+AWS+e+IA+com+Java;Aberto+a+oportunidades+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&height=45&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Java+em+forma%C3%A7%C3%A3o;Back-end+%7C+APIs+%7C+Bancos+de+Dados;Estudando+AWS+e+IA+com+Java;Aberto+a+oportunidades+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@ public class Natanael {
     String local     = "São Paulo, Brasil";
 
     String[] stack      = {"Java", "JavaScript", "MySQL", "Git"};
-    String[] estudando  = {"Spring Boot", "APIs RESTful", "AWS", "IA com Java"};
+    String[] estudando  = {"APIs RESTful", "AWS", "IA com Java"};
 
     String status    = "Buscando a primeira oportunidade como dev júnior / estágio";
     String contato   = "evaristonatanael87@gmail.com";
@@ -48,7 +48,7 @@ public class Natanael {
 <p align="center"><sub><b>Aprendendo agora</b></sub></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,aws&theme=dark" alt="Aprendendo" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="Aprendendo" />
 </p>
 
 <br>
