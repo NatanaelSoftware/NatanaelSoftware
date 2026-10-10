@@ -1,15 +1,16 @@
+<!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Natanael Evaristo - Desenvolvedor Java | Back-end em formação" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=130&section=header&text=Natanael%20Evaristo&fontSize=38&fontColor=e2e8f0&fontAlignY=42&desc=Desenvolvedor%20Java%20%7C%20Back-end%20em%20forma%C3%A7%C3%A3o&descSize=16&descAlignY=68&descColor=94a3b8" alt="Natanael Evaristo" />
 </p>
-
 <p align="center">
-  <a href="https://natanaelsoftware.github.io"><img src="assets/btn-portfolio.svg" height="42" alt="Portfólio" /></a>
-  <a href="https://www.linkedin.com/in/natanael-evaristo"><img src="assets/btn-linkedin.svg" height="42" alt="LinkedIn" /></a>
-  <a href="mailto:evaristonatanael87@gmail.com"><img src="assets/btn-email.svg" height="42" alt="E-mail" /></a>
+  <a href="https://natanaelsoftware.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0a0f1c?style=for-the-badge&logo=githubpages&logoColor=38bdf8" /></a>
+  <a href="https://www.linkedin.com/in/natanael-evaristo"><img src="https://img.shields.io/badge/LinkedIn-0a0f1c?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:evaristonatanael87@gmail.com"><img src="https://img.shields.io/badge/E--mail-0a0f1c?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 </p>
 
 <br>
 
+<!-- ============ SOBRE ============ -->
 <h2 align="center">⚡ Sobre mim</h2>
 
 ```java
@@ -29,20 +30,22 @@ public class Natanael {
 
 <br>
 
+<!-- ============ STACK ============ -->
 <h2 align="center">🛠️ Tecnologias</h2>
 
 <p align="center">
-  <img src="assets/stack.svg" alt="Tecnologias: Java, JavaScript, HTML5, CSS3, MySQL, Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,github&theme=dark" alt="Stack" />
 </p>
 
-<p align="center"><sub><b>Estudando agora</b></sub></p>
+<p align="center"><sub><b>Aprendendo agora</b></sub></p>
 
 <p align="center">
-  <img src="assets/learning.svg" alt="Estudando: AWS, APIs RESTful, IA com Java" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="Aprendendo" />
 </p>
 
 <br>
 
+<!-- ============ PROJETOS ============ -->
 <h2 align="center">🚀 Projetos</h2>
 
 <h3 align="center">⭐ Destaque</h3>
@@ -53,7 +56,8 @@ public class Natanael {
       <h4>🗓️ <a href="https://github.com/NatanaelSoftware/GestaoEventos">Sistema de Gestão de Eventos</a></h4>
       Sistema para gerenciar eventos, participantes e inscrições. Projeto acadêmico em equipe, onde <b>liderei o time</b> e fui responsável pela <b>modelagem e implementação do banco de dados em MySQL</b>.
       <br><br>
-      <code>Java</code> · <code>MySQL</code>
+      <img src="https://img.shields.io/badge/Java-0a0f1c?style=flat-square&logo=openjdk&logoColor=ED8B00" />
+      <img src="https://img.shields.io/badge/MySQL-0a0f1c?style=flat-square&logo=mysql&logoColor=4479A1" />
     </td>
   </tr>
 </table>
@@ -92,6 +96,7 @@ public class Natanael {
 
 <br>
 
+<!-- ============ FORMAÇÃO ============ -->
 <h2 align="center">🎓 Formação e cursos</h2>
 
 <table align="center">
@@ -134,6 +139,7 @@ public class Natanael {
 
 <br>
 
+<!-- ============ CONTATO ============ -->
 <h2 align="center">📫 Vamos conversar?</h2>
 
 <p align="center">
@@ -141,11 +147,12 @@ public class Natanael {
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/natanael-evaristo"><img src="assets/btn-linkedin.svg" height="42" alt="LinkedIn" /></a>
-  <a href="mailto:evaristonatanael87@gmail.com"><img src="assets/btn-email.svg" height="42" alt="E-mail" /></a>
-  <a href="https://natanaelsoftware.github.io"><img src="assets/btn-portfolio.svg" height="42" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/natanael-evaristo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:evaristonatanael87@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://natanaelsoftware.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1e3a8a?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 </p>
 
+<!-- ============ FOOTER ============ -->
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=60&section=footer" alt="Footer" />
 </p>
