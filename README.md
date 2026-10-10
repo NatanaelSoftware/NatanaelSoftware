@@ -3,12 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=130&section=header&text=Natanael%20Evaristo&fontSize=38&fontColor=e2e8f0&fontAlignY=42&desc=Desenvolvedor%20Java%20%7C%20Back-end%20em%20forma%C3%A7%C3%A3o&descSize=16&descAlignY=68&descColor=94a3b8" alt="Natanael Evaristo" />
 </p>
 <p align="center">
-  <a href="https://github.com/NatanaelSoftware">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&height=45&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Java+em+forma%C3%A7%C3%A3o;Back-end+%7C+APIs+%7C+Bancos+de+Dados;Estudando+AWS+e+IA+com+Java;Aberto+a+oportunidades+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://natanaelsoftware.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0a0f1c?style=for-the-badge&logo=githubpages&logoColor=38bdf8" /></a>
   <a href="https://www.linkedin.com/in/natanael-evaristo"><img src="https://img.shields.io/badge/LinkedIn-0a0f1c?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="mailto:evaristonatanael87@gmail.com"><img src="https://img.shields.io/badge/E--mail-0a0f1c?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
