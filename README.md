@@ -7,8 +7,8 @@ public class Natanael {
     String foco = "Desenvolvimento back-end com Java";
     String formacao = "Ciência da Computação (Cruzeiro do Sul, 2025-2029)";
 
-    String[] stack = {"Java", "Spring Boot", "MySQL", "Git"};
-    String[] estudando = {"APIs RESTful", "AWS", "IA com Java"};
+    String[] stack = {"Java", "JavaScript", "MySQL", "Git"};
+    String[] estudando = {"APIs", "AWS", "IA com Java"};
 
     String status = "Em busca da primeira oportunidade como dev júnior/estágio";
     String contato = "evaristonatanael87@gmail.com";
