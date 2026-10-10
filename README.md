@@ -21,14 +21,12 @@ public class Natanael {
 
 <p>
   <img src="https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=ED8B00" />
-  <img src="https://img.shields.io/badge/Spring_Boot-000?style=flat-square&logo=springboot&logoColor=6DB33F" />
   <img src="https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB" />
 </p>
 
 ### Em andamento
