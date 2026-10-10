@@ -1,25 +1,25 @@
-<!-- ============ HEADER ============ -->
+<h1 align="center">Natanael Evaristo</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=130&section=header&text=Natanael%20Evaristo&fontSize=38&fontColor=e2e8f0&fontAlignY=42&desc=Desenvolvedor%20Java%20%7C%20Back-end%20em%20forma%C3%A7%C3%A3o&descSize=16&descAlignY=68&descColor=94a3b8" alt="Natanael Evaristo" />
-</p>
-<p align="center">
-  <a href="https://natanaelsoftware.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0a0f1c?style=for-the-badge&logo=githubpages&logoColor=38bdf8" /></a>
-  <a href="https://www.linkedin.com/in/natanael-evaristo"><img src="https://img.shields.io/badge/LinkedIn-0a0f1c?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="mailto:evaristonatanael87@gmail.com"><img src="https://img.shields.io/badge/E--mail-0a0f1c?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-  <img src="https://komarev.com/ghpvc/?username=NatanaelSoftware&style=for-the-badge&color=1e3a8a&label=VISITAS" />
+  <b>Desenvolvedor Java | Back-end em formação</b><br>
+  Estudante de Ciência da Computação · São Paulo, Brasil
 </p>
 
-<br>
+<p align="center">
+  <a href="https://natanaelsoftware.github.io">Portfólio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/natanael-evaristo">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:evaristonatanael87@gmail.com">E-mail</a>
+</p>
 
-<!-- ============ SOBRE ============ -->
-<h2 align="center">⚡ Sobre mim</h2>
+---
+
+## Sobre mim
 
 ```java
 public class Natanael {
 
     String foco      = "Desenvolvimento back-end com Java";
     String formacao  = "Ciência da Computação | Universidade Cruzeiro do Sul";
-    String local     = "São Paulo, Brasil";
 
     String[] stack      = {"Java", "JavaScript", "MySQL", "Git"};
     String[] estudando  = {"APIs RESTful", "AWS", "IA com Java"};
@@ -29,134 +29,55 @@ public class Natanael {
 }
 ```
 
-<br>
+---
 
-<!-- ============ STACK ============ -->
-<h2 align="center">🛠️ Tecnologias</h2>
+## Tecnologias
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,github&theme=dark" alt="Stack" />
-</p>
+| | |
+|---|---|
+| **Linguagens** | `Java` · `JavaScript` · `HTML` · `CSS` |
+| **Banco de dados** | `MySQL` |
+| **Ferramentas** | `Git` · `GitHub` |
+| **Estudando agora** | `APIs RESTful` · `AWS` · `IA com Java` |
 
-<p align="center"><sub><b>Aprendendo agora</b></sub></p>
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="Aprendendo" />
-</p>
+## Projetos
 
-<br>
+### ⭐ Em destaque
 
-<!-- ============ PROJETOS ============ -->
-<h2 align="center">🚀 Projetos</h2>
+**[Sistema de Gestão de Eventos](https://github.com/NatanaelSoftware/GestaoEventos)** &nbsp;·&nbsp; `Java` `MySQL`
 
-<h3 align="center">⭐ Destaque</h3>
+Sistema para gerenciar eventos, participantes e inscrições. Projeto acadêmico em equipe, no qual **liderei o time** e fui responsável pela **modelagem e implementação do banco de dados em MySQL**.
 
-<table align="center">
-  <tr>
-    <td>
-      <h4>🗓️ <a href="https://github.com/NatanaelSoftware/GestaoEventos">Sistema de Gestão de Eventos</a></h4>
-      Sistema para gerenciar eventos, participantes e inscrições. Projeto acadêmico em equipe, onde <b>liderei o time</b> e fui responsável pela <b>modelagem e implementação do banco de dados em MySQL</b>.
-      <br><br>
-      <img src="https://img.shields.io/badge/Java-0a0f1c?style=flat-square&logo=openjdk&logoColor=ED8B00" />
-      <img src="https://img.shields.io/badge/MySQL-0a0f1c?style=flat-square&logo=mysql&logoColor=4479A1" />
-    </td>
-  </tr>
-</table>
+### Outros projetos
 
-<h3 align="center">💻 Outros projetos</h3>
+| Projeto | Descrição | Tecnologia |
+|---|---|---|
+| [Jogo da Forca](https://github.com/NatanaelSoftware/Jogo-da-Forca) | Sorteia palavras e desafia o usuário a adivinhar letra por letra, controlando vidas e letras certas e erradas. | Java |
+| [Pedra, Papel e Tesoura](https://github.com/NatanaelSoftware/Jogo-PedraPapelTessoura) | O jogador escolhe a jogada, o computador sorteia a dele e o programa informa quem venceu. | Java |
+| [Jogo de Adivinhação](https://github.com/NatanaelSoftware/Jogo-de-adivinha-o) | Desafia o usuário a adivinhar um valor, com controle de tentativas e validação de entrada. | Java |
+| [Portfólio](https://github.com/NatanaelSoftware/NatanaelSoftware.github.io) | Meu portfólio profissional, construído com HTML, CSS e JavaScript puro. | HTML · CSS · JS |
 
-<p align="center">
-  <a href="https://github.com/NatanaelSoftware/Jogo-da-Forca">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NatanaelSoftware&repo=Jogo-da-Forca&theme=tokyonight&hide_border=true&bg_color=0a0f1c&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" />
-  </a>
-  <a href="https://github.com/NatanaelSoftware/Jogo-PedraPapelTessoura">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NatanaelSoftware&repo=Jogo-PedraPapelTessoura&theme=tokyonight&hide_border=true&bg_color=0a0f1c&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/NatanaelSoftware/Jogo-de-adivinha-o">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NatanaelSoftware&repo=Jogo-de-adivinha-o&theme=tokyonight&hide_border=true&bg_color=0a0f1c&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" />
-  </a>
-  <a href="https://github.com/NatanaelSoftware/NatanaelSoftware.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NatanaelSoftware&repo=NatanaelSoftware.github.io&theme=tokyonight&hide_border=true&bg_color=0a0f1c&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" />
-  </a>
-</p>
+Também participei do [Hackathon Mesttra (Grupo 2)](https://github.com/camilaf16/hackaton-mesttra-grupo2), em equipe.
 
-<p align="center"><sub>🤝 Também participei do <a href="https://github.com/camilaf16/hackaton-mesttra-grupo2">Hackathon Mesttra (Grupo 2)</a>, em equipe.</sub></p>
+---
 
-<br>
+## Formação e cursos
 
-<!-- ============ FORMAÇÃO ============ -->
-<h2 align="center">🎓 Formação e cursos</h2>
+| Curso | Instituição | Status |
+|---|---|---|
+| Bacharelado em Ciência da Computação | Universidade Cruzeiro do Sul | 🔵 Em andamento (2025–2029) |
+| Inteligência Artificial com Java | Itaú | 🔵 Em andamento |
+| Bootcamp CI&T: Backend com Java & AWS | DIO | ✅ Concluído (04/2026) |
+| Programa 1000DEVS | mesttra · J&J · Albert Einstein | ✅ Concluído (04/2026) |
+| Curso de Java | Curso em Vídeo | ✅ Concluído (07/2025) |
+| Power BI (Básico) | Senai | ✅ Concluído (04/2024) |
 
-<table align="center">
-  <tr>
-    <th align="left">Curso</th>
-    <th align="left">Instituição</th>
-    <th align="left">Status</th>
-  </tr>
-  <tr>
-    <td>Bacharelado em Ciência da Computação</td>
-    <td>Universidade Cruzeiro do Sul</td>
-    <td>🔵 Em andamento (2025–2029)</td>
-  </tr>
-  <tr>
-    <td>Inteligência Artificial com Java</td>
-    <td>Itaú</td>
-    <td>🔵 Em andamento</td>
-  </tr>
-  <tr>
-    <td>Bootcamp CI&amp;T: Backend com Java &amp; AWS</td>
-    <td>DIO</td>
-    <td>✅ Concluído (04/2026)</td>
-  </tr>
-  <tr>
-    <td>Programa 1000DEVS</td>
-    <td>mesttra · J&amp;J · Albert Einstein</td>
-    <td>✅ Concluído (04/2026)</td>
-  </tr>
-  <tr>
-    <td>Curso de Java</td>
-    <td>Curso em Vídeo</td>
-    <td>✅ Concluído (07/2025)</td>
-  </tr>
-  <tr>
-    <td>Power BI (Básico)</td>
-    <td>Senai</td>
-    <td>✅ Concluído (04/2024)</td>
-  </tr>
-</table>
+---
 
-<br>
+## Contato
 
-<!-- ============ ESTATÍSTICAS ============ -->
-<h2 align="center">📊 GitHub</h2>
+Aberto a oportunidades, projetos e conexões na área de tecnologia.
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NatanaelSoftware&show_icons=true&hide_border=true&bg_color=0a0f1c&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&hide=contribs" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelSoftware&layout=compact&hide_border=true&bg_color=0a0f1c&title_color=38bdf8&text_color=cbd5e1" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NatanaelSoftware&hide_border=true&background=0a0f1c&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=cbd5e1&currStreakNum=cbd5e1&sideNums=cbd5e1&dates=94a3b8" />
-</p>
-
-<br>
-
-<!-- ============ CONTATO ============ -->
-<h2 align="center">📫 Vamos conversar?</h2>
-
-<p align="center">
-  Estou aberto a oportunidades, projetos e conexões na área de tecnologia.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/natanael-evaristo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:evaristonatanael87@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://natanaelsoftware.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1e3a8a?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-</p>
-
-<!-- ============ FOOTER ============ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=60&section=footer" alt="Footer" />
-</p>
+**[LinkedIn](https://www.linkedin.com/in/natanael-evaristo)** &nbsp;·&nbsp; **[E-mail](mailto:evaristonatanael87@gmail.com)** &nbsp;·&nbsp; **[Portfólio](https://natanaelsoftware.github.io)**
